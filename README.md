@@ -25,9 +25,11 @@ https://streamable.com/bl61u
 # Yenten - help
 
 **Download wallet:**
+
 https://github.com/conan-equal-newone/yenten/releases/download/2.0.1fix/yenten_win64_2.0.1fix.zip
 
 **Download miner:**
+
 Cpuminer-opt - https://github.com/JayDDee/cpuminer-opt/releases
 
 **Sample miner bat file for mining Yenten coin:**
@@ -35,16 +37,20 @@ Cpuminer-opt - https://github.com/JayDDee/cpuminer-opt/releases
 `cpuminer-sse2.exe -a yescryptr16 -o stratum+tcp://cpu-pool.com:63368 -u WALLET_ADDRESS`
 
 **Yenten pools:**
+
 http://cpu-pool.com/
 https://ytn.misosi.ru/
 
 **Download blockchain:**
+
 http://yenten-pool.ml/blocks_yenten_last.zip
 
 **Yenten faucet:**
+
 http://yenten-pool.ml/faucet/
 
 **Stocks and Exchanges:**
+
 [https://crex24.com/](https://crex24.com/?refid=jtqpuvw3jtq7vvgsqv7u "https://crex24.com/")
 https://tradesatoshi.com/Exchange?market=YTN_BTC
 https://coinsmarkets.com/trade-BTC-YTN.htm
@@ -52,6 +58,7 @@ https://trade.multicoins.org/market/MC-YTN
 https://graviex.net/markets/ytnbtc
 
 **Solo mining:**
+
 create in data folder - file yenten.conf
 
     rpcallow=127.0.0.1
@@ -67,6 +74,7 @@ In bat file cpuminer-opt
 `cpuminer-aes-sse42.exe -a yescryptr16 -o http://127.0.0.1:9982 -u user -p x --coinbase-addr=WALLET_ADDRESS`
 
 **Yenten Blockexplorer:**
+
 https://ytn.overemo.com/
 
 
