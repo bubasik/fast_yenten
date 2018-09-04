@@ -31,6 +31,7 @@ https://github.com/conan-equal-newone/yenten/releases/download/2.0.1fix/yenten_w
 Cpuminer-opt - https://github.com/JayDDee/cpuminer-opt/releases
 
 **Sample miner bat file for mining Yenten coin:**
+
 `cpuminer-sse2.exe -a yescryptr16 -o stratum+tcp://cpu-pool.com:63368 -u WALLET_ADDRESS`
 
 **Yenten pools:**
@@ -62,6 +63,7 @@ create in data folder - file yenten.conf
     rpcport=9982
 
 In bat file cpuminer-opt
+
 `cpuminer-aes-sse42.exe -a yescryptr16 -o http://127.0.0.1:9982 -u user -p x --coinbase-addr=WALLET_ADDRESS`
 
 **Yenten Blockexplorer:**
