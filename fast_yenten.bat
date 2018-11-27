@@ -2,14 +2,14 @@ rem easy start Yenten wallet with last blockchain by Bubasik
 rem https://eternallybored.org/misc/wget/
 rem http://gnuwin32.sourceforge.net/packages/unzip.htm
 
-REM create folder cryply and data
+REM create folder yenten and data
 MD C:\yenten
 MD C:\yenten\data
 
 REM download yenten wallet
-wget.exe -P c:\yenten -nc https://github.com/conan-equal-newone/yenten/releases/download/2.0.1fix/yenten_win64_2.0.1fix.zip
-unzip.exe c:\yenten\yenten_win64_2.0.1fix -d c:\yenten\
-move C:\yenten\yenten_win64_2.0.1fix\yenten-qt.exe c:\yenten\
+wget.exe -P c:\yenten -nc https://github.com/yentencoin/yenten/releases/download/3.0.0/yenten_win64_3_0.zip
+unzip.exe c:\yenten\yenten_win64_3_0 -d c:\yenten\
+rem move C:\yenten\yenten_win64_3_0\yenten-qt.exe c:\yenten\
 
 REM create start bat file
 Echo C:\yenten\yenten-qt -datadir=C:\yenten\data > C:\yenten\yenten.bat
