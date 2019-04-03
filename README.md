@@ -55,10 +55,15 @@ http://yenten-pool.info/faucet/
 **Stocks and Exchanges:**
 
 [https://crex24.com/](https://crex24.com/?refid=jtqpuvw3jtq7vvgsqv7u "https://crex24.com/")
+
 https://tradesatoshi.com/Exchange?market=YTN_BTC
+
 https://coinsmarkets.com/trade-BTC-YTN.htm
+
 https://trade.multicoins.org/market/MC-YTN
+
 https://graviex.net/markets/ytnbtc
+
 
 **Solo mining:**
 
