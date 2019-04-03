@@ -12,7 +12,7 @@ Download **fast_yenten.zip**, unzip and start **fast_yenten.bat**
 
 ## Fast_yenten - quick and easy installation of a wallet
 
-Download https://github.com/bubasik/fast_yenten/releases/download/1.0/fast_yenten.zip unpack and run **fast_yenten.bat**
+Download https://github.com/bubasik/fast_yenten/releases/download/1.1/fast_yenten.zip unpack and run **fast_yenten.bat**
 
 Automatic installation Yenten wallet in folder c:\yenten with last blockchain. Fast run - 5 min.
 
@@ -26,28 +26,29 @@ https://streamable.com/bl61u
 
 **Download wallet:**
 
-https://github.com/conan-equal-newone/yenten/releases/download/2.0.1fix/yenten_win64_2.0.1fix.zip
+https://github.com/yentencoin/yenten/releases/download/3.1.0/yenten_win64_3_1_0.zip
 
 **Download miner:**
 
-Cpuminer-opt - https://github.com/JayDDee/cpuminer-opt/releases
+Cpuminer-opt-ytn - https://github.com/bubasik/cpuminer-opt-yespower/releases/download/3.8.8.4/Cpuminer-opt-yespower-ytn-ver3.zip
 
 **Sample miner bat file for mining Yenten coin:**
 
-`cpuminer-sse2.exe -a yescryptr16 -o stratum+tcp://cpu-pool.com:63368 -u WALLET_ADDRESS`
+`cpuminer-sse2.exe -a yespowerr16 -o stratum+tcp://cpu-pool.com:63368 -u WALLET_ADDRESS`
 
 **Yenten pools:**
 
 http://cpu-pool.com/
-https://ytn.misosi.ru/
+https://ytn.firstpool.ru/
+http://yenten-pool.info/
 
 **Download blockchain:**
 
-http://yenten-pool.ml/blocks_yenten_last.zip
+http://yenten-pool.info/blocks_yenten_last.zip
 
 **Yenten faucet:**
 
-http://yenten-pool.ml/faucet/
+http://yenten-pool.info/faucet/
 
 **Stocks and Exchanges:**
 
@@ -71,9 +72,11 @@ create in data folder - file yenten.conf
 
 In bat file cpuminer-opt
 
-`cpuminer-aes-sse42.exe -a yescryptr16 -o http://127.0.0.1:9982 -u user -p x --coinbase-addr=WALLET_ADDRESS`
+`cpuminer-aes-sse42.exe -a yespowerr16 -o http://127.0.0.1:9982 -u user -p x --coinbase-addr=WALLET_ADDRESS`
 
 **Yenten Blockexplorer:**
+
+http://explorer.yentencoin.info/
 
 https://ytn.overemo.com/
 
