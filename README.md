@@ -39,7 +39,9 @@ Cpuminer-opt-ytn - https://github.com/bubasik/cpuminer-opt-yespower/releases/dow
 **Yenten pools:**
 
 http://cpu-pool.com/
+
 https://ytn.firstpool.ru/
+
 http://yenten-pool.info/
 
 **Download blockchain:**
