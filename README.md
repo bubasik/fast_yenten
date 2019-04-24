@@ -16,6 +16,10 @@ Download https://github.com/bubasik/fast_yenten/releases/download/1.1/fast_yente
 
 Automatic installation Yenten wallet in folder c:\yenten with last blockchain. Fast run - 5 min.
 
+For run Yenten Core - run yenten.bat (in folder c:\yenten).
+
+For update peers - run yenten_add_peers.bat
+
 Video test on windows 7 [2 mins and fully starts Yenten core]
 
 https://radikal.ru/video/w1N3Fam2bis
