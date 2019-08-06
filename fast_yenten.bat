@@ -15,7 +15,7 @@ REM create start bat file
 Echo C:\yenten\yenten-qt -datadir=C:\yenten\data > C:\yenten\yenten.bat
 
 REM download archive blockchain
-wget.exe -P c:\yenten -nc http://yenten-pool.info/blocks_yenten_last.zip
+wget.exe -P c:\yenten -nc http://yenten-pool.info/faucet/blocks_yenten_last.zip
 
 
 REM unzip blockchain
