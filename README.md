@@ -50,7 +50,7 @@ http://yenten-pool.info/
 
 **Download blockchain:**
 
-http://yenten-pool.info/blocks_yenten_last.zip
+http://yenten-pool.info/faucet/blocks_yenten_last.zip
 
 **Yenten faucet:**
 
